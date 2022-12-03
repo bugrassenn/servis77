@@ -7,13 +7,7 @@ function contact() {
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
-            <div className="row">
-              <iframe
-                src="https://www.google.com/maps/d/embed?mid=13falla9E3hOhi4kCizzTtUy6qUnJ0KM&ehbc=2E312F"
-                width="640"
-                height="480"
-              ></iframe>
-            </div>
+            <div className="row"></div>
           </div>
           <div className="col-lg-6">
             <div>
